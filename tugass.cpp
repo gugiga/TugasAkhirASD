@@ -2,5 +2,5 @@
 using namespace std;
 int main(){
     cout << "Laper";
-    cout << "nasi goreng";
+    cout << "nasi bakar";
 }
